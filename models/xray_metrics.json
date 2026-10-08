@@ -1,0 +1,13 @@
+{
+  "model": "ResNet18",
+  "task": "Cardiomegaly Detection",
+  "accuracy": 0.625,
+  "precision": 1.0,
+  "recall": 0.2105,
+  "f1_score": 0.3478,
+  "auroc": 1.0,
+  "class_names": [
+    "normal",
+    "cardiomegaly"
+  ]
+}
